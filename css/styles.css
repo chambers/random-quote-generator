@@ -1,0 +1,25 @@
+body {
+    font-size: 16px;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.quote {
+    max-width: 800px;
+    font-family: monospace;
+    background-color: black;
+}
+
+.quote:first-child {
+    font-size: 2rem;
+}
+
+footer {
+    width: 100%;
+    background-color: #4a4d56;
+    padding: 10px;
+    text-align: right;
+    position: fixed;
+}
